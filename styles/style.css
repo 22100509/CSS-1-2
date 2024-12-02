@@ -1,93 +1,110 @@
 h1 {
+    font-size: 72px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#imgNight {
+    height: 646px;
+}
+
+#divNight {
+    margin-top: 37px;
+    width: 568px;
+    margin-left: 55px;
+}
+
+#StaryNight {
+    margin-top: 12px;
+    text-align: center;
     font-size: 40px;
+    line-height: normal;
+}
+
+#nightArticle {
+    margin-top: 16px;
     text-align: center;
+    color: #414651;
+    line-height: 24px;;
 }
 
-#img-1 {
-    width: 500px;
-    height: 420px;
-}
 
-#div0 {
-    width: 500px;
-    margin-left: 40px;
-    
-}
-
-#h2-1 {
-    text-align: center;
-
-}
-
-#one {
-    text-align: center;
-}
-
-#two {
+#List {
+    margin-top: 16px;
     color: blue;
+    line-height: 24px;
 }
 
-#three {
-    color: burlywood;
-    border: burlywood solid;
-    width: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+#button {
+    color: #CEA201;
+    border:  2px solid #CEA201;;
+    width: 177px;
+    padding: 12px 32px;
     font-size: 15px;
     background-color: white;
 
 }
 
-#div1 {
-    width: 600px;
-    margin-left: 50px;
+#magicDiv {
+    margin-top: 74px;
+    width: 722px;
+    margin-left: 55px;
 }
 
-#h2-2 {
+#magicHead {
     text-align: center;
+    font-size: 40px;
+    line-height: normal;
+
     
 }
 
-#four {
+#magicArticle {
+    margin-top: 16px;
     text-align: center;
+    color: #414651;
+    line-height: 24px;
 }
 
-#five {
-    color: rgb(47, 170, 19);
+#howWorksHead {
+    margin-top: 24px;
+    color: #00C76E;
     text-align: center;
+    line-height: 24px;
 }
 
-#six {
-    padding-left: 170px;
-    color: red;
+#pinkList {
+    margin-top: 16px;
+    color: #FF5DA3;
+    padding-left: 185.5px;
 }
 
-#img-2 {
+#imgButterfly {
+    margin-top: 24px;
     width: 200px;
-    height: 100;
-    padding-left: 50px;
+    height: 200px;
+    padding-left: 55px;
 }
-#divSeven {
-    margin-top: 10px;
+#purpleListDiv {
+    margin-top: 24px;
     border: 5px #C11574 solid;
     background-color:  #FFDEF0;
     width: 600px;
-    margin-left: 50px;
+    margin-left: 55px;
 }
 
-#eight {
-    margin-left: 20px;
+#purpleListHead {
+    padding-left: 16px;
+    margin-top: 16px;
 }
 
-#nine { 
-     color: #C27512;
-}
 
 #li-1, #li-2, #li-3 {
     list-style-type: none;
     color: #C27512;
     padding-top: -15px;
     padding-bottom: 20px;
+    padding-left: 12px;
    
     
 }
@@ -96,19 +113,20 @@ h1 {
 }
 
 
-#ten {
-    padding-left: 50px;
-    padding-top: 20px;
-    width: 300px;
-    height: 300px;
+#lastImg {
+    padding-left: 55px;
+    padding-top: 24px;
+    width: 298.012px;
+    height: 396px;
 }
 
 a {
     color: #00D4BC;
-    font-size: 25px;
+    font-size: 24px;
+    text-align: right;
 }
 
 #link {
     text-align: right;
-    color: #00D4BC;
+   
 }
